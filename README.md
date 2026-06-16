@@ -245,8 +245,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👥 Team
 
-## 👥 Team
-
 | Role | Name |
 |------|------|
 | Supervisor | Abdelhak Mahmoudi |
