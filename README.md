@@ -245,11 +245,15 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👥 Team
 
+## 👥 Team
+
 | Role | Name |
 |------|------|
 | Supervisor | Abdelhak Mahmoudi |
 | Co-Supervisor | Saad Frihi |
 | Co-Supervisor | Yasine Lehmiani |
+| Student | Chaimae Jai |
+| Student | Wiam El Bakraoui |
 
 **Université Mohammed V — Faculté des Sciences, Rabat**
-**Master IT — April 2025/2026**
+**Master IT —  2025/2027**
