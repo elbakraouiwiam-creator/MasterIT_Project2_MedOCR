@@ -37,10 +37,10 @@ An intelligent REST API that recognizes medications from images of their boxes o
 │       │                                                 │
 │       ▼                                                 │
 │  ┌────────────────┐     ┌──────────────────────────┐   │
-│  │ ImagePreprocessor│   │     OCR Service           │   │
-│  │                 │──▶│  ┌──────────┐             │   │
-│  │ • Resize        │   │  │Tesseract │ (primary)   │   │
-│  │ • Denoise       │   │  └──────────┘             │   │
+│  │ ImagePreprocessor│   │     OCR Service          │   │
+│  │                 │──▶│                      │   │
+│  │ • Resize        │   │  
+│  │ • Denoise       │   │                       │   │
 │  │ • CLAHE         │   │  ┌──────────┐             │   │
 │  │ • Binarize      │   │  │ EasyOCR  │ (fallback)  │   │
 │  │ • Deskew        │   │  └──────────┘             │   │
@@ -70,7 +70,7 @@ An intelligent REST API that recognizes medications from images of their boxes o
 ### Prerequisites
 
 - Python 3.10+
-- Tesseract OCR engine
+- 
 
 #### Install Tesseract
 
