@@ -20,7 +20,7 @@ An intelligent REST API that recognizes medications from images of their boxes o
 
 **Key capabilities:**
 - 📷 Accepts images in JPG, PNG, BMP, TIFF, WEBP formats
-- 🔤 Extracts text using Tesseract OCR (Arabic + French) with EasyOCR fallback
+- 🔤 Extracts text using EasyOCR (Arabic + French) with EasyOCR fallback
 - 🔍 Matches extracted text against a reference database of **7,913 Moroccan medications**
 - 🚀 Returns top matches with confidence scores in <1 second
 - 🌐 RESTful API with interactive Swagger documentation
